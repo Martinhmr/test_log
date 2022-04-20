@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test přihlášení</string>
+    <string name="label_login">Přihlásit se do aplikace</string>
+    <string name="label_username">Uživatel</string>
+    <string name="label_pswd">Heslo</string>
+    <string name="label_btn_login">Přihlásit</string>
+    <string name="label_main">Přihlášený uživatel</string>
+    <string name="label_name">Jméno</string>
+    <string name="label_surname">Příjmení</string>
+    <string name="label_email">Email</string>
+    <string name="label_btn_logout">Odhlásit</string>
+</resources>
